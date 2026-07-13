@@ -1,0 +1,31 @@
+# Large or controlled input data
+data/raw/
+data/gwas/
+data/ld_ref/
+data/eqtl/
+data/pqtl/
+
+# Generated outputs
+out/
+results/
+figures/generated/
+
+# Local R/Python environments
+.r-libs/
+.Rhistory
+.RData
+.venv/
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Keep directory placeholders
+!data/.gitkeep
+!metadata/.gitkeep
+!results/
+!results/.gitkeep
+!figures/.gitkeep
