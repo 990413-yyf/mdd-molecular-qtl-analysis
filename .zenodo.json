@@ -1,0 +1,45 @@
+{
+  "title": "Multi-tissue molecular QTL analyses in major depressive disorder",
+  "upload_type": "software",
+  "description": "Analysis code accompanying a multi-tissue molecular-QTL study prioritizing candidate genes for major depressive disorder and evaluating circulating inflammatory proteins under cis-instrument, multiple-testing and colocalization criteria.",
+  "creators": [
+    {
+      "name": "Yan Fei",
+      "affiliation": "Bishan Hospital, Chongqing University of Chinese Medicine, Chongqing, China"
+    },
+    {
+      "name": "Wang Ying",
+      "affiliation": "Bishan Hospital, Chongqing University of Chinese Medicine, Chongqing, China"
+    },
+    {
+      "name": "Wu Tianxing",
+      "affiliation": "Bishan Hospital, Chongqing University of Chinese Medicine, Chongqing, China"
+    },
+    {
+      "name": "Xie Xiaolin",
+      "affiliation": "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+    },
+    {
+      "name": "Tao Jing",
+      "affiliation": "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+    },
+    {
+      "name": "Chen Yongliang",
+      "affiliation": "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+    },
+    {
+      "name": "Liu Jie",
+      "affiliation": "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "major depressive disorder",
+    "Mendelian randomization",
+    "molecular QTL",
+    "eQTL",
+    "pQTL",
+    "colocalization"
+  ],
+  "access_right": "open"
+}

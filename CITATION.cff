@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived software release and the associated manuscript when available."
+title: "Multi-tissue molecular QTL analyses in major depressive disorder"
+type: software
+authors:
+  - family-names: Yan
+    given-names: Fei
+    affiliation: "Bishan Hospital, Chongqing University of Chinese Medicine, Chongqing, China"
+  - family-names: Wang
+    given-names: Ying
+    affiliation: "Bishan Hospital, Chongqing University of Chinese Medicine, Chongqing, China"
+  - family-names: Wu
+    given-names: Tianxing
+    affiliation: "Bishan Hospital, Chongqing University of Chinese Medicine, Chongqing, China"
+  - family-names: Xie
+    given-names: Xiaolin
+    affiliation: "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+  - family-names: Tao
+    given-names: Jing
+    affiliation: "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+  - family-names: Chen
+    given-names: Yongliang
+    affiliation: "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+  - family-names: Liu
+    given-names: Jie
+    affiliation: "Zhongxian Hospital of Traditional Chinese Medicine, Chongqing, China"
+repository-code: "https://github.com/990413-yyf/mdd-molecular-qtl-analysis"
+url: "https://github.com/990413-yyf/mdd-molecular-qtl-analysis"
+version: "1.0.0-submission"
+date-released: "2026-07-14"
+license: MIT
+keywords:
+  - major depressive disorder
+  - Mendelian randomization
+  - molecular QTL
+  - eQTL
+  - pQTL
+  - colocalization
+abstract: "Analysis code accompanying a multi-tissue molecular-QTL study prioritizing candidate genes for major depressive disorder and evaluating circulating inflammatory proteins under cis-instrument, multiple-testing and colocalization criteria."

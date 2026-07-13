@@ -103,8 +103,10 @@ Full numerical reproduction requires the source datasets, access credentials whe
 
 “No robust evidence” refers only to proteins that were instrumentable under the prespecified strong cis-instrument, multiple-testing and colocalization criteria. It does not exclude smaller effects, uninstrumented proteins, brain-local or stimulus-dependent inflammation. The acupuncture analysis is exploratory and does not establish treatment mechanism or efficacy.
 
-## Citation, permanent archive and licence
+## Citation, permanent archive and license
 
 Repository: https://github.com/990413-yyf/mdd-molecular-qtl-analysis
 
-The final manuscript citation and Zenodo DOI will be added when the submission release is archived. A code licence has not yet been selected by the authors and institution.
+This repository is released under the MIT License. Citation metadata are provided in `CITATION.cff`, and Zenodo metadata are prepared in `.zenodo.json`.
+
+The final manuscript citation and Zenodo DOI will be added when the submission release is archived.
