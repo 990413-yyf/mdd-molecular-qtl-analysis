@@ -105,4 +105,6 @@ Full numerical reproduction requires the source datasets, access credentials whe
 
 ## Citation, permanent archive and licence
 
-The manuscript citation, repository URL, Zenodo DOI and code licence will be added before public release.
+Repository: https://github.com/990413-yyf/mdd-molecular-qtl-analysis
+
+The final manuscript citation and Zenodo DOI will be added when the submission release is archived. A code licence has not yet been selected by the authors and institution.
