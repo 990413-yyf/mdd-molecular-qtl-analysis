@@ -109,4 +109,6 @@ Repository: https://github.com/990413-yyf/mdd-molecular-qtl-analysis
 
 This repository is released under the MIT License. Citation metadata are provided in `CITATION.cff`, and Zenodo metadata are prepared in `.zenodo.json`.
 
-The final manuscript citation and Zenodo DOI will be added when the submission release is archived.
+Submission release archive: https://doi.org/10.5281/zenodo.21342013
+
+The final manuscript citation will be added after publication.
